@@ -9,3 +9,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregning&" alt="gregning" />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
