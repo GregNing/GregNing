@@ -4,8 +4,5 @@
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gregning&show_icons=true&locale=en&layout=compact" alt="gregning" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gregning&" alt="gregning" />
 </div>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregning&show_icons=true&locale=en&layout=compact" alt="gregning" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gregning&" alt="gregning" /></p>
