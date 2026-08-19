@@ -42,5 +42,5 @@ I enjoy building practical web applications and learning by turning ideas into w
 ## 3D contribution calendar
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution calendar" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution calendar - night view" width="100%" />
 </p>
