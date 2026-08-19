@@ -20,13 +20,14 @@ I enjoy building practical web applications and learning by turning ideas into w
 
 ## GitHub activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GregNing&show_icons=true&hide_border=true&theme=transparent" alt="Greg's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregNing&layout=compact&hide_border=true&theme=transparent" alt="Greg's most-used languages" />
+<p>
+  Explore my latest work, repositories, and contribution history directly on GitHub:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GregNing&hide_border=true&theme=transparent" alt="Greg's GitHub contribution streak" />
+  <a href="https://github.com/GregNing">Profile</a> ·
+  <a href="https://github.com/GregNing?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/GregNing?tab=overview">Contributions</a>
 </p>
 
 ## Contribution snake
@@ -36,4 +37,10 @@ I enjoy building practical web applications and learning by turning ideas into w
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GregNing/GregNing/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/GregNing/GregNing/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
   </picture>
+</p>
+
+## 3D contribution calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution calendar" width="100%" />
 </p>
